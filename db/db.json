@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mert Bereket",
+      "email": "info@mertbereket.com.tr",
+      "payment": 12000,
+      "department": "Development",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane@doe.com",
+      "payment": 15000,
+      "department": "Sale",
+      "password": "password"
+    },
+    {
+      "id": 3,
+      "name": "Jhon Doe",
+      "email": "jhon@doe.com",
+      "payment": 30000,
+      "department": "Management",
+      "password": "password"
+    },
+    {
+      "name": "Mert",
+      "email": "mert@deneme.com",
+      "payment": "123",
+      "department": "departments",
+      "id": 4,
+      "password": "password"
+    }
+  ]
+}
