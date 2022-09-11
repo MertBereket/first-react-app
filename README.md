@@ -1,5 +1,9 @@
 ## Yapılması Gerekenler
 
+Projedeki paketleri indrimek için:
+
+### `npm install`
+
 Projeyi çalıştırmak için:
 
 ### `npm start`
